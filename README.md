@@ -1,2 +1,2 @@
 # Animation-Library
-A library made for learning purpose.
+A library made for learning purpose
